@@ -15,6 +15,8 @@
 
 ```sh
 npm i react-router
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
 ```
 
 # React + TypeScript + Vite
